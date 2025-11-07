@@ -1,4 +1,4 @@
-title: Meine Website
+eartitle: Meine Website
 description: Eine einfache GitHub Pages Seite mit Jekyll
 theme: jekyll-theme-minimal
 
@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 nav:
   - name: Start
     link: /
-  - name: Über mich
-    link: /about
-  - name: Projekte
-    link: /projects
+  - name: Research
+    link: /achimswebsite/research
+  - name: CV
+    link: /achimswebsite/cv
