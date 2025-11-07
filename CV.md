@@ -1,8 +1,8 @@
 ---
-title: CV
+title: cv
 ---
 {% include nav.html %}
 
-# Mein CV
+# CV
 
 Hier ist mein CV verlinkt
