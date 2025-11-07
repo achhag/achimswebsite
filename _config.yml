@@ -5,7 +5,7 @@ theme: jekyll-theme-minimal
 # Navigationseinträge
 nav:
   - name: Start
-    link: /
+    link: /achimswebsite
   - name: Research
     link: /achimswebsite/research
   - name: CV
