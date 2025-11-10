@@ -5,6 +5,6 @@ title: Start
 
 # About me 
 
-Dies ist meine GitHub Pages Seite mit dem **Minimal Theme**.
+Dies ist meine GitHub Page.
 
 Sie hat jetzt sogar eine Navigation!
